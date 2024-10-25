@@ -1,0 +1,7 @@
+# ninja log v5
+0	12	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/x86/CMakeFiles/cmake.verify_globs	a1e516a3c4191948
+0	1919	1729863792776825662	CMakeFiles/appmodules.dir/Users/praddoom/Documents/Solarbond_app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	33ec1c1a2cd102cd
+1	2236	1729863793081834017	CMakeFiles/appmodules.dir/OnLoad.cpp.o	7b4f65aad01db5aa
+2236	2323	1729863793182761032	/Users/praddoom/Documents/Solarbond_app/android/app/build/intermediates/cxx/Debug/2j434d13/obj/x86/libappmodules.so	e50f5c6cf399cdc8
+1	36	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/x86/CMakeFiles/cmake.verify_globs	a1e516a3c4191948
+0	21	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/x86/CMakeFiles/cmake.verify_globs	a1e516a3c4191948

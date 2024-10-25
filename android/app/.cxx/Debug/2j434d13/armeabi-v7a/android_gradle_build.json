@@ -1,0 +1,42 @@
+{
+  "buildFiles": [
+    "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/praddoom/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/praddoom/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "appmodules",
+      "output": "/Users/praddoom/Documents/Solarbond_app/android/app/build/intermediates/cxx/Debug/2j434d13/obj/armeabi-v7a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/praddoom/.gradle/caches/8.10.2/transforms/eb4b98dea289284ca2b26e9265bd49ab/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.armeabi-v7a/libfbjni.so",
+        "/Users/praddoom/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/jsi/libs/android.armeabi-v7a/libjsi.so",
+        "/Users/praddoom/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/reactnative/libs/android.armeabi-v7a/libreactnative.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/praddoom/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/praddoom/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
