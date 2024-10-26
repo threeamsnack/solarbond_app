@@ -1,0 +1,20 @@
+# ninja log v5
+1947	2007	1729905525900267088	/Users/praddoom/Documents/Solarbond_app/android/app/build/intermediates/cxx/RelWithDebInfo/6b586qo5/obj/x86/libappmodules.so	c3a3668a71e497ba
+1	1946	1729905525833223314	CMakeFiles/appmodules.dir/OnLoad.cpp.o	6cb9a9b20836ebea
+0	1646	1729905525534418649	CMakeFiles/appmodules.dir/Users/praddoom/Documents/Solarbond_app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d994301d5cc15f5c
+1	49	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/RelWithDebInfo/6b586qo5/x86/CMakeFiles/cmake.verify_globs	180c0348879a8db1
+49	239	1729920581701264279	build.ninja	95666c2d9d743607
+0	22	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/RelWithDebInfo/6b586qo5/x86/CMakeFiles/cmake.verify_globs	180c0348879a8db1
+26	5794	1729920587518891409	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/States.cpp.o	67d1a51a2dffe3cc
+12	6682	1729920588446053254	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/common/cpp/react/renderer/components/rnsvg/RNSVGImageState.cpp.o	c5477476c66fb95a
+9	6902	1729920588662118986	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp.o	8091bb7df015b823
+8	8323	1729920590054255221	CMakeFiles/appmodules.dir/OnLoad.cpp.o	b9bf7738be4f77b4
+20	8410	1729920590167201226	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/ShadowNodes.cpp.o	3385967ef2bdf78
+10	9335	1729920591093827231	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/common/cpp/react/renderer/components/rnsvg/RNSVGImageShadowNode.cpp.o	8c84d216958fac12
+14	9717	1729920591478739058	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/rnsvg.cpp.o	293e507d0b4323f0
+5795	9920	1729920591686089918	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/rnsvgJSI-generated.cpp.o	cc7a4e165f025ddf
+17	14935	1729920596652287878	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/Props.cpp.o	21c6e37051ab0d88
+15	23336	1729920605041534392	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/ComponentDescriptors.cpp.o	d0b7c78766c73fae
+23337	23618	1729920605365383964	/Users/praddoom/Documents/Solarbond_app/android/app/build/intermediates/cxx/RelWithDebInfo/6b586qo5/obj/x86/libreact_codegen_rnsvg.so	48a9bd0a638e0d0b
+7	23845	1729920605542426089	CMakeFiles/appmodules.dir/Users/praddoom/Documents/Solarbond_app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	9fb58978daa83ffb
+23845	23926	1729920605683854822	/Users/praddoom/Documents/Solarbond_app/android/app/build/intermediates/cxx/RelWithDebInfo/6b586qo5/obj/x86/libappmodules.so	9eb6e6fe746a5779

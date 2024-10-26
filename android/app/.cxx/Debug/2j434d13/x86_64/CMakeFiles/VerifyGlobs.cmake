@@ -12,6 +12,42 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/x86_64/CMakeFiles/cmake.verify_globs")
 endif()
 
+# rnsvg_SRCS at /Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt:19 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/*.cpp")
+set(OLD_GLOB
+  "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/rnsvg.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
+# rnsvg_SRCS at /Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt:19 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnsvg/*.cpp")
+set(OLD_GLOB
+  "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnsvg/RNSVGImageShadowNode.cpp"
+  "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnsvg/RNSVGImageState.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
+# rnsvg_codegen_SRCS at /Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt:20 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/*cpp")
+set(OLD_GLOB
+  "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/ComponentDescriptors.cpp"
+  "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp"
+  "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/Props.cpp"
+  "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/ShadowNodes.cpp"
+  "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/States.cpp"
+  "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/rnsvgJSI-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/x86_64/CMakeFiles/cmake.verify_globs")
+endif()
+
 # input_SRC at /Users/praddoom/Documents/Solarbond_app/node_modules/react-native/ReactAndroid/cmake-utils/ReactNative-application.cmake:38 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/Users/praddoom/Documents/Solarbond_app/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/*.cpp")
 set(OLD_GLOB

@@ -1,0 +1,6 @@
+/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/RelWithDebInfo/6b586qo5/x86/CMakeFiles/appmodules.dir
+/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/RelWithDebInfo/6b586qo5/x86/CMakeFiles/edit_cache.dir
+/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/RelWithDebInfo/6b586qo5/x86/CMakeFiles/rebuild_cache.dir
+/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/RelWithDebInfo/6b586qo5/x86/rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir
+/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/RelWithDebInfo/6b586qo5/x86/rnsvg_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/RelWithDebInfo/6b586qo5/x86/rnsvg_autolinked_build/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,6 @@
 /Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/armeabi-v7a/CMakeFiles/appmodules.dir
 /Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/armeabi-v7a/CMakeFiles/edit_cache.dir
 /Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/armeabi-v7a/rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir
+/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/armeabi-v7a/rnsvg_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/armeabi-v7a/rnsvg_autolinked_build/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,21 @@
 # ninja log v5
-1	17	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/arm64-v8a/CMakeFiles/cmake.verify_globs	fdd30f8674ae343e
-0	5097	1729863784812805096	CMakeFiles/appmodules.dir/Users/praddoom/Documents/Solarbond_app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	3ba01151193cede7
-1	5515	1729863785232728032	CMakeFiles/appmodules.dir/OnLoad.cpp.o	7778f839bb2782e7
-5515	5613	1729863785338648663	/Users/praddoom/Documents/Solarbond_app/android/app/build/intermediates/cxx/Debug/2j434d13/obj/arm64-v8a/libappmodules.so	4413928375490e50
-1	82	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/arm64-v8a/CMakeFiles/cmake.verify_globs	fdd30f8674ae343e
-1	95	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/arm64-v8a/CMakeFiles/cmake.verify_globs	fdd30f8674ae343e
+2608	2840	1729902644173720872	/Users/praddoom/Documents/Solarbond_app/android/app/build/intermediates/cxx/Debug/2j434d13/obj/arm64-v8a/libappmodules.so	4413928375490e50
+66	139	1729917629215574845	build.ninja	68ab68bb1e37372d
+3	2608	1729902643936824995	CMakeFiles/appmodules.dir/OnLoad.cpp.o	7778f839bb2782e7
+3	2262	1729902643594384287	CMakeFiles/appmodules.dir/Users/praddoom/Documents/Solarbond_app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	3ba01151193cede7
+9	138	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/arm64-v8a/CMakeFiles/cmake.verify_globs	fdd30f8674ae343e
+138	320	1729917629215574845	build.ninja	68ab68bb1e37372d
+1	23	0	/Users/praddoom/Documents/Solarbond_app/android/app/.cxx/Debug/2j434d13/arm64-v8a/CMakeFiles/cmake.verify_globs	fdd30f8674ae343e
+18	8340	1729917637559813786	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/States.cpp.o	8fd57cec86ea9751
+10	10576	1729917639807600382	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/common/cpp/react/renderer/components/rnsvg/RNSVGImageState.cpp.o	bb7a64ae3740234a
+13	10673	1729917639912225842	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp.o	e94883d30f034c03
+17	17158	1729917646391597112	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/ShadowNodes.cpp.o	383e1005a53c0e54
+10	17175	1729917646401758356	CMakeFiles/appmodules.dir/OnLoad.cpp.o	ddb07ba3c59e700b
+10	18747	1729917647971334297	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/common/cpp/react/renderer/components/rnsvg/RNSVGImageShadowNode.cpp.o	df784cfd690eed98
+8342	19171	1729917648402751782	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/rnsvgJSI-generated.cpp.o	448217c3da8e2c0f
+12	19181	1729917648425226516	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/rnsvg.cpp.o	cfd3441372cbb9bd
+15	20394	1729917649606629059	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/Props.cpp.o	d1ae016b9d519b6e
+12	29303	1729917658390540936	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/praddoom/Documents/Solarbond_app/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/ComponentDescriptors.cpp.o	50e23961ccae4928
+9	29521	1729917658618725874	CMakeFiles/appmodules.dir/Users/praddoom/Documents/Solarbond_app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	b13af01200d1480d
+29303	29670	1729917658871861952	/Users/praddoom/Documents/Solarbond_app/android/app/build/intermediates/cxx/Debug/2j434d13/obj/arm64-v8a/libreact_codegen_rnsvg.so	189f85bf97fb80b4
+29670	29813	1729917659040073030	/Users/praddoom/Documents/Solarbond_app/android/app/build/intermediates/cxx/Debug/2j434d13/obj/arm64-v8a/libappmodules.so	e0a8a00f4e31ea27
